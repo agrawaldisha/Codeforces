@@ -5,6 +5,7 @@ for i in range(t):
     count=0
     str=input()
     if(str[0]!='c'):
+        
         count+=1
     if(str[1]!='o'):
         count+=1
